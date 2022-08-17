@@ -26,7 +26,7 @@ __Libraries__:
  
  **Methods**:
 
-#### Decision Tree
+#### [Decision Tree](https://github.com/Sandritahm/DSProjects/blob/d59baabd64b287718d22c532636031606dfe6ae0/Austing%20Animal%20Center-Decision%20Tree-Final.ipynb)
 ![image](https://user-images.githubusercontent.com/92321983/185189607-dc595577-0158-4733-9915-68d5d6ad03b7.png)
 
 Report:
@@ -39,7 +39,9 @@ Report:
 |weighted avg |     0.82   |  0.80  |   0.80   | 15932  |
 
 
-#### Random Forest
+
+
+#### [Random Forest](https://github.com/Sandritahm/DSProjects/blob/d59baabd64b287718d22c532636031606dfe6ae0/Austing%20Animal%20Center-Random%20Forest.ipynb)
 The random forest gives the same accuracy than the decision tree.
 |             | precision  | recall | f1-score | support|
 |-------------|:----------:|:------:|:--------:|:------:|
