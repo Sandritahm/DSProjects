@@ -6,7 +6,7 @@ This is a project to practice my skills, so if you have any comments, I'm open t
 
 For analysis I used:
 
-- Visualizations with Matplotlib
+- [Visualizations](AAC_Visualizations.md)
 - [Decision Tree](AAC_Decision_tree.md)
 - [Random Forest](AAC_random_forest.md)
 - Neural Networks
