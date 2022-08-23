@@ -1,6 +1,6 @@
 # Data Science Projects
 
-## [Austing Animal Center](AustingAnimalCenter.md)
+## [Austing Animal Center](https://github.com/Sandritahm/DSProjects/blob/5619b1ce0402540b65bc5f589c83cc57777ec517/AustingAnimalCenter/AustingAnimalCenter.md)
 
 Using the AAC database I tried to show the actual conditions of the center by visualizing the data. Also I tested some algorithms such as Decision Trees and Random Forest to predit if an animal will be adopted or not.
 
