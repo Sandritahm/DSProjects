@@ -1,6 +1,6 @@
 # Data Science Projects
 
-<h2>Austing Animal Center </h2>
+## Austing Animal Center
 
 I obtain the data from Kaggle: [AAC](https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes?select=aac_intakes_outcomes.csv)
 
