@@ -1,10 +1,8 @@
 # Data Science Projects
 
-## Austing Animal Center
+## [Austing Animal Center](AustingAnimalCenter.md)
 
-I obtain the data from Kaggle: [AAC](https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes?select=aac_intakes_outcomes.csv)
 
-## The first try was using the data to predict if an animal will be adopted or not using 10 of the columns from the intake information. To do it I use a decision tree and I also try with a random forest. Both gave me a 80% accuracy.
 
 >__Libraries__:
   * Pandas
