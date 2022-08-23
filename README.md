@@ -1,16 +1,18 @@
 # Data Science Projects
 
-### Austing Animal Center 
+<h2>Austing Animal Center </h2>
 
 I obtain the data from Kaggle: [AAC](https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes?select=aac_intakes_outcomes.csv)
 
-__Libraries__:
+## The first try was using the data to predict if an animal will be adopted or not using 10 of the columns from the intake information. To do it I use a decision tree and I also try with a random forest. Both gave me a 80% accuracy.
+
+>__Libraries__:
   * Pandas
   * Numpy
   * MatPlotLib
   * Sklearn
   
-**Process**: 
+>**Process**: 
   1. Cleaning and preprocessing the data.
   2. Defining the inputs: From the 41 columns in the data I use 10 in the analysis.
       * animal_type
@@ -21,10 +23,10 @@ __Libraries__:
       * sex_upon_intake
       * age_upon_intake_(days)
       * time_in_shelter_days
- 3. Defining the output: 
+  3. Defining the output: 
       * outcome_type: "Adopted" or "Not Adopted"
  
- **Methods**:
+> **Methods**:
 
 #### [Decision Tree](https://github.com/Sandritahm/DSProjects/blob/d59baabd64b287718d22c532636031606dfe6ae0/Austing%20Animal%20Center-Decision%20Tree-Final.ipynb)
 ![image](https://user-images.githubusercontent.com/92321983/185189607-dc595577-0158-4733-9915-68d5d6ad03b7.png)
