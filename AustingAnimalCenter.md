@@ -8,6 +8,6 @@ For analysis I used:
 
 - Visualizations with Matplotlib
 - [Decision Tree](AAC_Decision_tree.md)
-- [Random Fores](AAC_random_forest.md)
+- [Random Forest](AAC_random_forest.md)
 - Neural Networks
 
