@@ -6,7 +6,7 @@ I did this project to practice my newly acquired skills, and if you have any sug
 
 ## Process:
 
-1. [**Preprocessing**](https://github.com/Sandritahm/DSProjects/blob/6324df16bd4a769c6ca3efea7acbb9153a9fab6b/HousePriceProject/House_price_preprocessing.py):
+1. [**Preprocessing**](https://github.com/Sandritahm/DSProjects/blob/b6acc1fcce023310ced95873daa2931ca9e675ee/HousePriceProject/House_price_Preprocessing1.ipynb):
 
     I used Pandas, NumPy and Scikit-Learn to preprocess the data. This includes:
     - Dealing with missing values.
