@@ -5,6 +5,7 @@ All the projects are just for fun and to practice my acquired skills. I am open 
 ## [Nobel Laureated EDA](https://github.com/Sandritahm/DSProjects/blob/3831da7d0fdba760a7757161e7efd5d6c53200b3/Nobel%20Project/EDANobelLaureates.md)
 
 The project used a dataset from [Kaggle](https://www.kaggle.com/datasets/gauravarora1091/nobel-laureates-from-1901-to-2022) and aimed to perform an EDA to get insights about the number of Laureates per Country and Field.
+
 ![image](https://user-images.githubusercontent.com/92321983/196235890-5c0e7dcf-0e4b-4cd0-8ae0-3c05486267e4.png)
 
 
