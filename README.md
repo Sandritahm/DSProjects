@@ -5,7 +5,7 @@ All the projects are just for fun and to practice my acquired skills. I am open 
 ## [Spot the differences](https://github.com/Sandritahm/DSProjects/blob/b3711e0cd6ef523251fc68a3a2c2e46cf2b73366/ComputerVisionProject/Readme.md)
 
 A simple vision computer project that help find the differences between two pictures.
-![image](https://user-images.githubusercontent.com/92321983/202827510-3952e8f8-0cc6-4eb6-b4fa-09a6c9e127b7.png)
+![image](https://user-images.githubusercontent.com/92321983/202827562-17334af5-bf6d-440e-a917-c61ccd91a7ea.png)
 
 ## [Nobel Laureated EDA](https://github.com/Sandritahm/DSProjects/blob/3831da7d0fdba760a7757161e7efd5d6c53200b3/Nobel%20Project/EDANobelLaureates.md)
 
